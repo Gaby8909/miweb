@@ -1,2 +1,4 @@
 siguiendo con mi primera pagina web
 y estamos estudiando git y sus comandos
+
+Estamos repasando lo que viimos en el bootcamp de Factoria f5
